@@ -11,7 +11,7 @@
 npm i -S ngx-serp-preview
 ```
 
-### <a href="https://btxtiger.github.io/ngx-serp-preview/" target="_blank">⇨ DEMO</a>
+### <a href="https://jonaaix.github.io/ngx-serp-preview/" target="_blank">⇨ DEMO</a>
 
 ### Multiple preview tabs with Google, Mobile, Bing, Yahoo
 ```html
